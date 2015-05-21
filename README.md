@@ -6,12 +6,14 @@ First attempt at hfy story - diversus
 
 Notes are stored using the following structure.  Notes use yaml and each folder should have a example.yaml with defaults.
 
+```
 /worldbuilding
   /species
   /locations
   /technologies
 /plots
 /characters
+```
 
 ## /visualisations
 
